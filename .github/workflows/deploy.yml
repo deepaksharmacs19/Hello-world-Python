@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  deploy:
+  deploy-python:
     runs-on: ubuntu-latest
 
     steps:
